@@ -1,2 +1,2 @@
 # OSS-10-April-2021
-Testing of class examples
+Testing of class examples. . .feature2
